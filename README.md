@@ -1,7 +1,5 @@
 # KKINGVRR
 
-<h1>Hey Im King!</h1>
-
 I'm am a livestreamer on tiktok based in Aus I have 16K On Tiktok.
 <h4>What Im Good At</h4>
 
