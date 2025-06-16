@@ -2,8 +2,7 @@
 
 <h1>Hey Im King!</h1>
 
-I'm am a livestreamer on tiktok based in Aus aspired developer from Canada most known for my [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/) mods like [GorillaShirts](https://github.com/developer9998/GorillaShirts) and [GorillaInfoWatch](https://github.com/developer9998/GorillaInfoWatch).
-
+I'm am a livestreamer on tiktok based in Aus I have 16K On Tiktok.
 <h4>What Im Good At</h4>
 
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
